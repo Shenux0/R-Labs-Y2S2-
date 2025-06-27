@@ -25,7 +25,7 @@ Vectors contain elements of the same data type.
 ### Creating vectors
 ```r
 numbers <- c(1, 2, 3, 4, 5)
-names <- c("Vishwa", "Kavishka", "Shen", "Kabi")
+names <- c("John", "Smith", "Adam", "Nova")
 logical_values <- c(TRUE, FALSE, TRUE)
 ```
 
