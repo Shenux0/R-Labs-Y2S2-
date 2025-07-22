@@ -74,6 +74,5 @@ Found a typo, bug, or have an idea for a new lab?
 Feel free to open an issue or submit a pull request!
 
 ---
-
-Happy coding and learning!  
+ 
 *— Rashen Kodagoda* 
