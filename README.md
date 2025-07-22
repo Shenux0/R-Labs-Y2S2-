@@ -22,7 +22,7 @@ Welcome to **R-Labs** – a hands-on collection of modern, beginner-friendly lab
 
 ---
 
-## ✨ Features
+## ✨ Features-
 
 - **Modern, Clean Markdown**: All code and explanations are formatted for clarity and easy reading.
 - **Real R Code**: Copy-paste ready code blocks for every concept and problem.
